@@ -1,2 +1,3 @@
 # time-converter
-transformer between DateTime&lt;Tz> and timestamp_nanos
+
+    transformer between DateTime<Tz> and timestamp_nanos
